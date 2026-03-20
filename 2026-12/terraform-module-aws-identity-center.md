@@ -1,4 +1,4 @@
-# Terraform Module – AWS Identity Center
+# Terraform Module - AWS Identity Center
 
 There are a few public modules available for AWS Identity Center, but many of them separate concerns like users, groups, permission sets, and account assignments into different layers. In practice, I found account assignments to be the most difficult part to manage consistently.
 
